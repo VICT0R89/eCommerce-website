@@ -264,7 +264,7 @@ a{
 .cart-item-price{
   display: flex;
   align-items: center;
-  font-size: 1.2rem;  
+  font-size: .8rem;  
   background-color: var(--secundary-color2);  
   color: var(--primary-color2);
   padding: .5rem;
