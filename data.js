@@ -17,7 +17,7 @@ let shopItemsData = [
     id: "item003",
     name: "Mystic Red sword",
     price: 350,
-    description: "The mystical red sword contains the power of fire!",
+    description: "The mystical red sword contains the power of fire! Burn it all!",
     img: "img/img-3.png"
   },
   {
@@ -31,7 +31,7 @@ let shopItemsData = [
     id: "item005",
     name: "Mystic Green sword",
     price: 350,
-    description: "The mystical green sword contains the power of wind!",
+    description: "The mystical green sword contains the power of wind! Fast as the wind",
     img: "img/img-5.png"
   },
   {
@@ -52,6 +52,6 @@ let shopItemsData = [
     id: "item008",
     name: "Mystic White sword",
     price: 750,
-    description: "The mystical white sword contains the power of light!",
+    description: "The mystical white sword contains the power of light! Purify your soul!",
     img: "img/img-8.png"
   },];
